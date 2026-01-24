@@ -1,6 +1,6 @@
 # EduLMS - A Learning Management System
 
-A full-stack **Learning Management System** built with a focus on clean backend architecture, secure authentication, and real-world workflows. This project demonstrates practical experience with REST APIs, authentication, and deployment.
+A full-stack **Learning Management System** built with a focus on clean backend architecture, secure authentication, and real-world workflows. This project demonstrates practical experience with REST APIs, authentication, and deployment. Tying to add AI Chatbot as a future improvement.
 
 ---
 
@@ -241,7 +241,7 @@ npm run dev
 ## 🚀 Deployment
 
 * Backend deployed on **Render**
-* Frontend deployed separately
+* Frontend deployed separately on **Render**
 * CORS & port binding configured for production
 
 ---
