@@ -1,4 +1,4 @@
-#EduLMS - A Learning Management System
+# EduLMS - A Learning Management System
 
 A full-stack **Learning Management System** built with a focus on clean backend architecture, secure authentication, and real-world workflows. This project demonstrates practical experience with REST APIs, authentication, and deployment.
 
