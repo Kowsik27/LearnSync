@@ -256,19 +256,10 @@ npm run dev
 
 ---
 
-## 🔮 Future Improvements
-
-* Course enrollment & progress tracking
-* Admin analytics dashboard
-* Payment integration
-* Notification system
-
----
-
 ## 👨‍💻 Author
 
 **Mohith**
-CSE Student | Backend & DSA Enthusiast
+CSE 2K27 | Backend & DSA Enthusiast
 
 ---
 
