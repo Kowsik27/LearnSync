@@ -4,9 +4,9 @@ A full-stack **Learning Management System** built with a focus on clean backend 
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo  
+👉 https://lms-frontend-znsz.onrender.com/
 
-[![Live Demo](https://img.shields.io/badge/CLICK%20HERE-LIVE%20DEMO-blue?style=for-the-badge)](https://lms-frontend-znsz.onrender.com/)
 
 
 ## ✨ Highlights
