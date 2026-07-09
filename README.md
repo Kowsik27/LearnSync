@@ -1,4 +1,4 @@
-# EduLMS - A Learning Management System
+# LearnSync - A Learning Management System
 
 A full-stack **Learning Management System** built with a focus on clean backend architecture, secure authentication, and real-world workflows. This project demonstrates practical experience with REST APIs, authentication, and deployment. Tying to add AI Chatbot as a future improvement.
 
@@ -8,15 +8,15 @@ A full-stack **Learning Management System** built with a focus on clean backend 
 👉 https://lms-frontend-znsz.onrender.com/
 
 
-# EduLMS – Complete Feature List
+# LearnSync – Complete Feature List
 
-EduLMS is a full-stack Learning Management System designed to manage courses, users, assessments, and payments with a secure, role-based architecture.
+LearnSync is a full-stack Learning Management System designed to manage courses, users, assessments, and payments with a secure, role-based architecture.
 
 ---
 
 ## 1. Role-Based Access & Dashboards
 
-EduLMS supports three primary user roles, each with a dedicated dashboard:
+LearnSync supports three primary user roles, each with a dedicated dashboard:
 
 ### Admin Dashboard
 
